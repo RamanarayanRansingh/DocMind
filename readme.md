@@ -385,55 +385,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Contributors
 
-<table>
-<tr>
-<td align="center">
-<!-- <a href="https://github.com/ramanarayan-ransingh"> -->
-<!-- <img src="https://github.com/ramanarayan-ransingh.png" width="100px;" alt="Ramanarayan Ransingh"/> -->
-<br />
-<sub><b>Ramanarayan Ransingh</b></sub>
-</a>
-<br />
-<sub>Lead Developer & Researcher</sub>
-</td>
-<td align="center">
-<!-- <a href="https://github.com/ansuman-patra"> -->
-<!-- <img src="https://github.com/ansuman-patra.png" width="100px;" alt="Ansuman Patra"/> -->
-<br />
-<sub><b>Ansuman Patra</b></sub>
-</a>
-<br />
-<sub>Mobile App Development</sub>
-</td>
-<td align="center">
-<!-- <a href="https://github.com/akash-kumar-n"> -->
-<!-- <img src="https://github.com/akash-kumar-n.png" width="100px;" alt="Akash Kumar N"/> -->
-<br />
-<sub><b>Akash Kumar N</b></sub>
-</a>
-<br />
-<sub>Frontend Development</sub>
-</td>
-<td align="center">
-<!-- <a href="https://github.com/subhajit-mohanty"> -->
-<!-- <img src="https://github.com/subhajit-mohanty.png" width="100px;" alt="Subhajit Mohanty"/> -->
-<br />
-<sub><b>Subhajit Mohanty</b></sub>
-</a>
-<br />
-<sub>Backend Architecture</sub>
-</td>
-<td align="center">
-<!-- <a href="https://github.com/sunil-samanta-singhar"> -->
-<!-- <img src="https://github.com/sunil-samanta-singhar.png" width="100px;" alt="Sunil Samanta Singhar"/> -->
-<br />
-<sub><b>Sunil Samanta Singhar</b></sub>
-</a>
-<br />
-<sub>Research Supervisor</sub>
-</td>
-</tr>
-</table>
+### Core Team
+
+- **Ramanarayan Ransingh** - Lead Developer & Researcher
+- **Ansuman Patra** - Mobile App Development
+- **Akash Kumar N** - Frontend Development
+- **Subhajit Mohanty** - Backend Architecture
+- **Sunil Samanta Singhar** - Research Supervisor
+
+We appreciate all contributors who have helped make DocMind a reality through their expertise, feedback, and dedication to advancing AI-powered information systems.
 
 ---
 
