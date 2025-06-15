@@ -1,8 +1,8 @@
 # DocMind: A Unified Multi-Modal Framework for Intelligent Document Analysis
 
 <div align="center">
-
-![DocMind Logo](images/docmind_logo.png)
+   
+<img src="./images/docmind_logo.png" alt="DocMind Logo" width="500" height="500">
 
 **🚀 A privacy-preserving, open-source RAG platform that seamlessly integrates document analysis, database querying, and web content extraction through natural language interaction**
 
@@ -45,7 +45,10 @@ DocMind addresses the critical challenge of information fragmentation in modern 
 
 ## 🏗️ System Architecture
 
-![System Architecture](images/fig_1.png)
+<div align="center">
+  <img src="./images/fig_1.png" alt="System Architecture" width="800">
+  <p><em>System Architecture</em></p>
+</div>
 
 DocMind employs a modular, microservices-based architecture designed for scalability, maintainability, and privacy preservation. The system consists of four primary components:
 
@@ -85,15 +88,26 @@ DocMind employs a modular, microservices-based architecture designed for scalabi
 ## 📱 Demo
 
 ### Document RAG in Action
-![Document RAG Demo](images/fig_2.jpg)
+
+<div align="center">
+  <img src="./images/fig_2.jpg" alt="Document RAG Demo" width="600">
+  <p><em>Document RAG Demo</em></p>
+</div>
+
 *Semantic document retrieval with contextual response generation and source attribution*
 
 ### Natural Language to SQL
-![NL2SQL Demo](images/fig_3.jpg)
+<div align="center">
+  <img src="./images/fig_3.jpg" alt="NL2SQL Demo" width="500">
+  <p><em>NL2SQL Demo</em></p>
+</div>
 *Converting natural language queries into executable SQL with explanations*
 
 ### Web RAG Integration
-![Web RAG Demo](images/fig_4.jpg)
+<div align="center">
+  <img src="./images/fig_4.jpg" alt="Web RAG Demo" width="600">
+  <p><em>Web RAG Demo</em></p>
+</div>
 *Real-time web content integration providing current information*
 
 ## ⚡ Quick Start
