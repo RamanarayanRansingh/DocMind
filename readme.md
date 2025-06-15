@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![DocMind Logo](images/docmind-logo.png)
+![DocMind Logo](images/docmind_logo.png)
 
 **🚀 A privacy-preserving, open-source RAG platform that seamlessly integrates document analysis, database querying, and web content extraction through natural language interaction**
 
