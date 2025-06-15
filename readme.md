@@ -2,7 +2,7 @@
 
 <div align="center">
    
-<img src="./images/docmind_logo.png" alt="DocMind Logo" width="500" height="500">
+<img src="./images/docmind_logo.png" alt="DocMind Logo" width="200">
 
 **🚀 A privacy-preserving, open-source RAG platform that seamlessly integrates document analysis, database querying, and web content extraction through natural language interaction**
 
