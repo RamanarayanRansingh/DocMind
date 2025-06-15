@@ -1,0 +1,31 @@
+# Ignore Python virtual environment
+docmind_env/
+
+# Ignore environment variables
+.env
+
+# Ignore Python cache files
+__pycache__/
+**/__pycache__/
+
+# Ignore log files
+logs/
+
+# Ignore uploaded files
+uploads/
+
+# Ignore Chroma vector DBs
+chroma_db/
+web_chroma_db/
+
+# Ignore local database
+rag_manage.db
+
+# Optional: common Python ignores
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+.DS_Store
+
